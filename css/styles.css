@@ -322,7 +322,8 @@ img {
   padding-bottom: 27px;
   color: var(--page-tittle-color);
   background: rgba(47, 48, 58, 0.8);
-  bottom: -14px;
+  bottom: 0px;
+  margin-bottom: 0;
   width: 100%;
 }
 
